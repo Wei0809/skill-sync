@@ -1,0 +1,14 @@
+{
+  "name": "skill-sync",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "cd server && npm start",
+    "dev": "node dev.js",
+    "build": "cd client && npm run build",
+    "postinstall": "cd server && npm install && cd ../client && npm install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

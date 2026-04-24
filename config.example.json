@@ -1,0 +1,26 @@
+{
+  "centralRepo": "",
+  "editors": [
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "rulesDir": "~/.claude/rules",
+      "skillsDir": "~/.claude/commands",
+      "enabled": true
+    },
+    {
+      "id": "trae",
+      "name": "Trae",
+      "rulesDir": "~/.trae/rules",
+      "skillsDir": "",
+      "enabled": true
+    },
+    {
+      "id": "qclaw",
+      "name": "QClaw",
+      "rulesDir": "",
+      "skillsDir": "~/.qclaw/skills",
+      "enabled": true
+    }
+  ]
+}
