@@ -196,4 +196,4 @@ npm run postinstall  # Install all subdirectory dependencies
 
 ## License
 
-ISC
+MIT
